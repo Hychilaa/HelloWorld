@@ -1,2 +1,10 @@
 # HelloWorld
- 1st repo
+English
+1st repository
+
+I'm trying Git for the first time
+
+Português
+1° repositório
+
+estou testando pela primeira vez o git 
